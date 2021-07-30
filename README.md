@@ -11,4 +11,7 @@ including blog posts about the exam.
 So, I decided to create my first Flutter app in memory of www.kpsspuan.net :)
 
 ## Demo
-https://github.com/ozkayas/demo-videos/blob/main/Flutter.Kpsspuan.Demo.mp4
+
+https://user-images.githubusercontent.com/63163416/127658331-630b4f4b-5931-43c9-82cf-db6e527517f7.mp4
+
+
