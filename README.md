@@ -14,4 +14,7 @@ So, I decided to create my first Flutter app in memory of www.kpsspuan.net :)
 
 https://user-images.githubusercontent.com/63163416/127658331-630b4f4b-5931-43c9-82cf-db6e527517f7.mp4
 
+## Licensing
+
+"The code in this project is licensed under MIT license."
 
